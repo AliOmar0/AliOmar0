@@ -62,7 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Zest00/Zest00/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Zest00/output/snake.svg" alt="Snake animation" />
 
 ###
 
