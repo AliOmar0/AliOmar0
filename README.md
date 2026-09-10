@@ -1,111 +1,108 @@
-<h1 align="center">Hi 👋, I'm Ali Omar</h1>
+
+<h1 align="center">Hi, I'm Ali Omar 👋</h1>
 
 <p align="center">
-  Full-Stack & AI Developer · Palestine Islamic Bank IT Intern · Al-Quds University IT Student<br>
-  🌍 Open to remote opportunities in Software Development, Data Engineering & AI/ML
+  <strong>AI/ML & Full-Stack Developer</strong><br>
+  B.Sc. Information Technology graduate from Al-Quds University<br>
+  Based in Ramallah, Palestine
+</p>
+
+<p align="center">
+  <a href="mailto:alidawood098@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/ali-omar0/">LinkedIn</a> •
+  <a href="https://github.com/AliOmar0">GitHub</a> •
+  <a href="https://aliomar0.github.io/Portfolio/">Portfolio</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🔭 Currently building **Connect Hub AI** — a multi-channel AI-powered bilingual customer service platform for Palestine Islamic Bank using React, Node.js, Python/FastAPI, OpenAI, Twilio & Supabase
-- 🎓 Final-semester B.Sc. Information Technology student at **Al-Quds University** (graduating Sep 2026)
-- 🌱 Deepening skills in **AI/ML pipelines**, **cloud architecture (Azure)**, and **real-time voice/chat systems**
-- 🏦 IT Intern at **Palestine Islamic Bank** — Digital Contact Center division
-- 🎓 Exchange student at **Mälardalen University, Sweden** (Erasmus+)
-- 🏅 Certified: Udacity AI Programming with Python & TensorFlow · Udacity Data Visualization Nanodegree
-- 📫 Reach me: **alidawood098@gmail.com**
+- 🎓 Graduated from the Information Technology Dual Studies program at **Al-Quds University**
+- 💻 Interested in full-stack development, AI/ML systems, and cloud-based applications
+- 🏦 Gained hands-on experience with the **Digital Contact Center division at Palestine Islamic Bank**
+- 🌍 Studied at **Mälardalen University, Sweden**, through the Erasmus+ exchange program
+- 🌱 Currently strengthening my skills in AI pipelines, cloud architecture, and real-time voice and chat systems
+- 🔎 Open to software development, data engineering, and AI/ML opportunities
 
----
+## Featured Projects
 
-## 🚀 Featured Projects
+### 🤖 Connect Hub AI
 
-### 🤖 Connect Hub AI *(Graduation Project)*
-Multi-channel AI customer service platform for PIB — supports voice, chat, and WhatsApp in Arabic & English.  
-**Stack:** React/TypeScript · Node.js · Python/FastAPI · OpenAI · Deepgram · ElevenLabs · Twilio · Supabase · Azure
+A bilingual, multi-channel customer service platform developed for Palestine Islamic Bank. It supports customer interactions through voice, web chat, and WhatsApp in Arabic and English.
+
+**Key areas:**
+
+- AI-assisted customer support and knowledge retrieval
+- Real-time voice processing and speech synthesis
+- WhatsApp and telephony integration
+- Complaint handling and OTP workflows
+- Secure database and API integration
+
+**Technologies:** React, TypeScript, Node.js, Python, FastAPI, Twilio, ElevenLabs, Supabase, Azure
 
 ### 📱 Trade & Barter Marketplace
-Flutter mobile app enabling users to trade goods without money.  
-**Stack:** Flutter · Dart · Firebase
 
----
+A Flutter mobile application that enables users to exchange goods directly without monetary transactions.
 
-## 🛠️ Tech Stack
+**Technologies:** Flutter, Dart, Firebase
 
-**Languages**
+### 🌐 Developer Portfolio
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php" />
-</div>
+A responsive portfolio presenting my technical experience, projects, education, and contact information.
 
-**Frameworks & Libraries**
+[View Portfolio](https://aliomar0.github.io/Portfolio/) ·
+[View Repository](https://github.com/AliOmar0/Portfolio)
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow" />
-</div>
+## Technical Skills
 
-**Cloud, Data & Tools**
+### Languages
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 
----
+### Frameworks and Libraries
 
-## 🔗 Connect With Me
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ali-omar0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
-  </a>
-  <a href="https://stackoverflow.com/users/23496581/ali-omar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow" />
-  </a>
-  <a href="https://dev.to/admo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto" />
-  </a>
-</div>
+### Cloud, Data and Tools
 
----
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliOmar0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliOmar0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+## Certifications
+
+- Udacity AI Programming with Python and TensorFlow
+- Udacity Data Visualization Nanodegree
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliOmar0&show_icons=true&theme=transparent&hide_border=true" alt="Ali Omar's GitHub statistics">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliOmar0&layout=compact&theme=transparent&hide_border=true" alt="Most used languages">
+</p>
+
+## Contact
+
+I am open to professional opportunities, technical collaborations, and conversations about software development and applied AI.
+
+- **Email:** [alidawood098@gmail.com](mailto:alidawood098@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ali-omar0](https://www.linkedin.com/in/ali-omar0/)
+- **Portfolio:** [aliomar0.github.io/Portfolio](https://aliomar0.github.io/Portfolio/)
