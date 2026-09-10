@@ -89,16 +89,6 @@ A responsive portfolio presenting my technical experience, projects, education, 
 - Udacity AI Programming with Python and TensorFlow
 - Udacity Data Visualization Nanodegree
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliOmar0&show_icons=true&theme=transparent&hide_border=true" alt="Ali Omar's GitHub statistics">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliOmar0&layout=compact&theme=transparent&hide_border=true" alt="Most used languages">
-</p>
-
 ## Contact
 
 I am open to professional opportunities, technical collaborations, and conversations about software development and applied AI.
